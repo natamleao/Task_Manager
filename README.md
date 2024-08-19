@@ -66,23 +66,23 @@ Clicando neste botão, o usuário poderá excluir a tarefa.
 
 > ## Como Ligar o Servidor e Acessar a Página
 > ### No Windows:
-> 1. No Prompt de Comando, navegue até o diretório do projeto.
+> 1. No Prompt de Comando, navegue até o diretório do projeto, em seguida vá para o diretório `./json`.
 > 2. Execute o servidor com o comando:
 >    ```cmd
 >    npm start
 >    ```
-> 3. Abra o navegador e acesse o arquivo `index.html` no diretório do projeto. Você pode fazer isso arrastando e soltando o arquivo `index.html` na janela do navegador ou usando o comando:
+> 3. Abra o navegador e acesse o arquivo `index.html` no diretório do projeto. Você pode fazer isso arrastando e soltando o arquivo `index.html` na janela do navegador ou, no diretório `./html`, usando o comando:
 >    ```cmd
 >    start index.html
 >    ```
 > 
 > ### No Linux:
-> 1. Abra um terminal e navegue até o diretório do projeto.
+> 1. Abra um terminal e navegue até o diretório do projeto, em seguida vá para o diretório `./json`.
 > 2. Execute o servidor com o comando:
 >    ```bash
 >    npm start
 >    ```
-> 3. Abra o navegador e acesse o arquivo `index.html` no diretório do projeto. Você pode fazer isso usando o comando:
+> 3. Abra o navegador e acesse o arquivo `index.html` no diretório do projeto. Você pode fazer isso arrastando e soltando o arquivo `index.html` na janela do navegador ou, no diretório `./html`, usando o comando:
 >    ```bash
 >    xdg-open index.html
 >    ```
@@ -90,9 +90,9 @@ Clicando neste botão, o usuário poderá excluir a tarefa.
 > [!Note]
 > Este projeto é uma implementação simples de um gerenciador de tarefas utilizando Node.js e PostgreSQL. Ele serve como uma oportunidade de aprendizado para entender os conceitos de desenvolvimento web com JavaScript.
 
-* **Autores:** Billy Grahan, Natam e Victor Wesley
+* **Autores:** Natam Leão Ferreira
 * **Instituição:** Universidade Federal do Ceará (UFC) - Campus Russas
-* **Disciplina:** Computação Gráfica
-* **Data de Conclusão:** 15/10/2023
+* **Disciplina:** Desenvolvimento de Software para Web
+* **Data de Conclusão:** 13/08/2024
 
 </div>
