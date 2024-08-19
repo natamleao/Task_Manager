@@ -71,15 +71,21 @@ Clicando neste botão, o usuário poderá excluir a tarefa.
 >    ```cmd
 >    npm start
 >    ```
-> 3. Abra o navegador e acesse `http://localhost:3000` para usar o gerenciador de tarefas.
-
+> 3. Abra o navegador e acesse o arquivo `index.html` no diretório do projeto. Você pode fazer isso arrastando e soltando o arquivo `index.html` na janela do navegador ou usando o comando:
+>    ```cmd
+>    start index.html
+>    ```
+> 
 > ### No Linux:
 > 1. Abra um terminal e navegue até o diretório do projeto.
 > 2. Execute o servidor com o comando:
 >    ```bash
 >    npm start
 >    ```
-> 3. Abra o navegador e acesse `http://localhost:3000` para usar o gerenciador de tarefas.
+> 3. Abra o navegador e acesse o arquivo `index.html` no diretório do projeto. Você pode fazer isso usando o comando:
+>    ```bash
+>    xdg-open index.html
+>    ```
 
 > [!Note]
 > Este projeto é uma implementação simples de um gerenciador de tarefas utilizando Node.js e PostgreSQL. Ele serve como uma oportunidade de aprendizado para entender os conceitos de desenvolvimento web com JavaScript.
