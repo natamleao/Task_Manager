@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atualizar Tarefa - Meu Gerenciador de Tarefas</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/create-update-task.css">
+</head>
+<body>
+    <div class="wrapper">
+        <h1>Atualizar Tarefa</h1>
+        
+        <form id="update-form">
+            <h4>Título</h4>
+            <textarea id="title" class="text-area" required></textarea>
+
+            <h4>Descrição</h4>
+            <textarea id="description" class="text-area" rows="10" required></textarea>
+
+            <div class="btn-conteiner">
+                <button type="button" class="btn" type="button" onclick="window.location.href='view-tasks.html'">Voltar</button>
+                <button type="submit" class="btn" type="submit" id="update-btn">Atualizar</button>
+            </div>
+        </form>
+    </div> 
+
+    <script src="../js/update-task.js"></script>
+</body>
+</html>

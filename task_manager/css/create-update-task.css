@@ -1,0 +1,14 @@
+.text-area {
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-weight: 600;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    color: #fff;
+    padding: 2px 3px 2px 3px;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: justify;
+}

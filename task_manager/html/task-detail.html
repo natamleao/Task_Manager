@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarefa - Meu Gerenciador de Tarefas</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/create-update-task.css">
+</head>
+<body>
+    <div class="wrapper">
+        <h1>Tarefa</h1>
+        
+        <form action="">
+            <h4>Título</h4>
+            <textarea id="title" name="title" class="text-area" required></textarea>
+
+            <h4>Descrição</h4>
+            <textarea id="description" name="description" class="text-area" rows="10" required></textarea>
+
+            <div class="btn-conteiner">
+                <button type="button" class="btn" onclick="window.location.href='view-tasks.html'">Voltar</button>
+            </div>
+        </form>
+    </div> 
+    <script src="../js/task-detail.js"></script>
+</body>
+</html>

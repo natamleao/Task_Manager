@@ -1,0 +1,17 @@
+.task-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.task-item {
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(255, 255, 255, .1);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.alt {
+    font-weight: 600;
+}
