@@ -2,6 +2,8 @@
 
 # Exercício de Desenvolvimento de Software para Web: Gerenciador de Tarefas
 
+<\div>
+
 ![Página inicial do gerenciador](https://i.imgur.com/FdIszKB.png)
 
 > [!NOTE]
