@@ -1,18 +1,14 @@
 <div align="justify">
 
-# Trabalho de Computação Gráfica: Jogo Missile Command (Astah) em C++
+# Desafio de Desenvolvimento de Software para Web: Gerenciador de Tarefas
 
-</div>
+![Página incial do gerenciador](https://imgur.com/a/uTqWFIi)
 
-![Astah](https://i.imgur.com/RX5kDms.jpg)
-
-<div align="justify">
-
-Este projeto é um exemplo de jogo Missile Command em 2D desenvolvido como parte de um trabalho acadêmico na disciplina de Computação Gráfica. O jogo permite que os jogadores defendam sua cidade contra mísseis inimigos.
+Este projeto é um exemplo de um gerenciador de tarefas simples, nele o usuário pode cadastrar, visualizar, editar e remover tarefas.
 
 ## Funcionalidades Principais
 
-### 1. Defesa da Cidade
+### 1. Cadastrar Tarefa
 Neste jogo, os jogadores devem defender sua cidade dos mísseis inimigos. Use o mouse para mirar e clique para disparar mísseis contra os inimigos. Ganhe pontos ao destruir os mísseis inimigos antes que eles atinjam sua cidade.
 
 ### 2. Gráficos com OpenGL
