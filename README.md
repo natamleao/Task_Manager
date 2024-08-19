@@ -30,7 +30,7 @@ Clicando neste botão, o usuário irá excluir a tarefa.
 <div align="justify">
 
 > [!WARNING]
-> Este jogo é apenas uma demonstração acadêmica e não deve ser utilizado para fins comerciais. Os gráficos e a jogabilidade são simplificados e não representam um produto final.
+> Este projeto é apenas uma desmonstração acadêmica e não deve ser utilizado para fins comerciais. As telas e funcionalidades são simplificados, assim como o banco de dados e o servidor, protanto, não represetam um produto final.
 
 > [!IMPORTANT]
 > ## Como Jogar
