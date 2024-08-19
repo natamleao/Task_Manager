@@ -2,12 +2,14 @@
 
 # Exercício de Desenvolvimento de Software para Web: Gerenciador de Tarefas
 
-<\div>
+</div>
 
 ![Página inicial do gerenciador](https://i.imgur.com/FdIszKB.png)
 
 > [!NOTE]
 > Este projeto é um exemplo de um gerenciador de tarefas simples, nele o usuário pode cadastrar, visualizar, editar e remover tarefas.
+
+<div align="justify">
 
 ## Funcionalidades Principais
 
@@ -24,13 +26,11 @@ Clicando neste botão, o usuário poderá visualizar o título e a descrição d
 Clicando neste botão, o usuário poderá atualizar o título e a descrição da tarefa.
 
 ### 5. Excluir
-Clicando neste botão, o usuário poderá excluir a tarefa. 
-
-</div>
+Clicando neste botão, o usuário poderá excluir a tarefa.
 
 ![Página de visualização do gerenciador](https://i.imgur.com/MXCZoEG.png)
 
-<div align="justify">
+</div>
 
 > [!WARNING]
 > Este projeto é apenas uma demonstração acadêmica e não deve ser utilizado para fins comerciais. As telas e funcionalidades são simplificadas, assim como o banco de dados e o servidor, portanto, não representam um produto final.
@@ -42,7 +42,7 @@ Clicando neste botão, o usuário poderá excluir a tarefa.
 > 3. Abra um terminal e navegue até o diretório do projeto.
 > 4. Restaure o banco de dados (instruções abaixo).
 > 5. Inicie o servidor (instruções abaixo) e acesse a aplicação web.
-
+>
 > ## Como Restaurar o Banco de Dados
 > ### No Windows:
 > 1. Abra o Prompt de Comando e navegue até o diretório `bin` do PostgreSQL, geralmente em `"C:\Program Files\PostgreSQL\<versão>\bin"`.
@@ -66,9 +66,10 @@ Clicando neste botão, o usuário poderá excluir a tarefa.
 >    psql -U <username> -d task_manager -f /caminho/para/task_manager.sql
 >    ```
 
-> [!IMPORTANT]
-> O `username` deve ser o seu nome de usuário do PostgreSQl, certifique-se de que ele tenha todas as permissões necessárias. 
+> [!WARNING]
+> O `username` deve ser o seu nome de usuário do PostgreSQL, certifique-se de que ele tenha todas as permissões necessárias.
 
+> [!IMPORTANT]
 > ## Como Ligar o Servidor e Acessar a Página
 > ### No Windows:
 > 1. No Prompt de Comando, navegue até o diretório do projeto, em seguida vá para o diretório `./json`.
@@ -92,12 +93,10 @@ Clicando neste botão, o usuário poderá excluir a tarefa.
 >    xdg-open index.html
 >    ```
 
-> [!Note]
+> [!NOTE]
 > Este projeto é uma implementação simples de um gerenciador de tarefas utilizando Node.js e PostgreSQL. Ele serve como uma oportunidade de aprendizado para entender os conceitos de desenvolvimento web com JavaScript.
 
 * **Autor:** Natam Leão Ferreira
 * **Instituição:** Universidade Federal do Ceará (UFC) - Campus Russas
 * **Disciplina:** Desenvolvimento de Software para Web
 * **Data de Conclusão:** 13/08/2024
-
-</div>
