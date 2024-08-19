@@ -8,15 +8,24 @@ Este projeto é um exemplo de um gerenciador de tarefas simples, nele o usuário
 
 ## Funcionalidades Principais
 
-### 1. Cadastrar Tarefa
-Neste jogo, os jogadores devem defender sua cidade dos mísseis inimigos. Use o mouse para mirar e clique para disparar mísseis contra os inimigos. Ganhe pontos ao destruir os mísseis inimigos antes que eles atinjam sua cidade.
+### 1. Criar Tarefa
+Esta funcionalidade permite ao usário cadastrar uma tarefa fornecendo o título e descrição.
 
-### 2. Gráficos com OpenGL
-O jogo utiliza a biblioteca OpenGL para renderizar os gráficos, proporcionando uma experiência visual envolvente.
+### 2. Visualizar Tarefas
+Aqui o usário poderá ver, pelo título, todas as suas tarefas cadastradas, ele também poderá acessar a descrição da tarefa, poderá atualizá-la e excluí-la.
+
+### 3. Visualizar
+Clicano neste botão, o usuário poderá visualizar o título e descrição da tarefa.
+
+### 4. Atualizar
+Clicando neste botão, o usuário poderá atualizar o título e descrição da tarefa.
+
+### 5. Excluir
+Clicando neste botão, o usuário irá excluir a tarefa. 
 
 </div>
 
-![Cena do Jogo](https://i.imgur.com/Wz093QM.png)
+![Página de visualização do gerenciador](https://i.imgur.com/MXCZoEG.png)
 
 <div align="justify">
 
