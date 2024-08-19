@@ -4,7 +4,7 @@
 
 ![Página inicial do gerenciador](https://i.imgur.com/FdIszKB.png)
 
-> [!NOTE]
+> [!note]
 > Este projeto é um exemplo de um gerenciador de tarefas simples, nele o usuário pode cadastrar, visualizar, editar e remover tarefas.
 
 ## Funcionalidades Principais
