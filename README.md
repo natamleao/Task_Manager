@@ -52,7 +52,7 @@ Clicando neste botão, o usuário poderá excluir a tarefa.
 >    ```cmd
 >    psql -U <username> -d task_manager -f "C:\path\to\backup\task_manager.sql"
 >    ```
-
+> 
 > ### No Linux:
 > 1. Abra um terminal.
 > 2. Crie um banco de dados vazio com o comando:
@@ -69,20 +69,20 @@ Clicando neste botão, o usuário poderá excluir a tarefa.
 > 1. No Prompt de Comando, navegue até o diretório do projeto.
 > 2. Execute o servidor com o comando:
 >    ```cmd
->    python manage.py runserver
+>    npm start
 >    ```
-> 3. Abra o navegador e acesse `http://localhost:8000` para usar o gerenciador de tarefas.
+> 3. Abra o navegador e acesse `http://localhost:3000` para usar o gerenciador de tarefas.
 
 > ### No Linux:
 > 1. Abra um terminal e navegue até o diretório do projeto.
 > 2. Execute o servidor com o comando:
 >    ```bash
->    python3 manage.py runserver
+>    npm start
 >    ```
-> 3. Abra o navegador e acesse `http://localhost:8000` para usar o gerenciador de tarefas.
+> 3. Abra o navegador e acesse `http://localhost:3000` para usar o gerenciador de tarefas.
 
 > [!Note]
-> Este projeto é uma implementação simples de um gerenciador de tarefas utilizando Django e PostgreSQL. Ele serve como uma oportunidade de aprendizado para entender os conceitos de desenvolvimento web com Python.
+> Este projeto é uma implementação simples de um gerenciador de tarefas utilizando Node.js e PostgreSQL. Ele serve como uma oportunidade de aprendizado para entender os conceitos de desenvolvimento web com JavaScript.
 
 * **Autores:** Billy Grahan, Natam e Victor Wesley
 * **Instituição:** Universidade Federal do Ceará (UFC) - Campus Russas
