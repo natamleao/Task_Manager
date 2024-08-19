@@ -64,6 +64,9 @@ Clicando neste botão, o usuário poderá excluir a tarefa.
 >    psql -U <username> -d task_manager -f /caminho/para/task_manager.sql
 >    ```
 
+> [!IMPORTANT]
+> O `username` deve ser o seu nome de usuário do PostgreSQl, certifique-se de que ele tenha todas as permissões necessárias. 
+
 > ## Como Ligar o Servidor e Acessar a Página
 > ### No Windows:
 > 1. No Prompt de Comando, navegue até o diretório do projeto, em seguida vá para o diretório `./json`.
