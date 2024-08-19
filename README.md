@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Desafio de Desenvolvimento de Software para Web: Gerenciador de Tarefas
+# Exercício de Desenvolvimento de Software para Web: Gerenciador de Tarefas
 
 ![Página inicial do gerenciador](https://i.imgur.com/FdIszKB.png)
 
@@ -90,7 +90,7 @@ Clicando neste botão, o usuário poderá excluir a tarefa.
 > [!Note]
 > Este projeto é uma implementação simples de um gerenciador de tarefas utilizando Node.js e PostgreSQL. Ele serve como uma oportunidade de aprendizado para entender os conceitos de desenvolvimento web com JavaScript.
 
-* **Autores:** Natam Leão Ferreira
+* **Autor:** Natam Leão Ferreira
 * **Instituição:** Universidade Federal do Ceará (UFC) - Campus Russas
 * **Disciplina:** Desenvolvimento de Software para Web
 * **Data de Conclusão:** 13/08/2024
